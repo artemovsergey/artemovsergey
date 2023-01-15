@@ -15,3 +15,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+# Резюме
+
+## HH
+
+https://stavropol.hh.ru/resume/6f959438ff0b84fea70039ed1f54636834676d
+
+## HabrCareer
+
+https://career.habr.com/artemovsergey12
